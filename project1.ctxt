@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=
+comment1.target=void\ magic()
+comment2.params=
+comment2.target=void\ special()
+comment3.params=n
+comment3.target=int\ fact(int)
+comment4.params=
+comment4.target=void\ automorphic()
+comment5.params=
+comment5.target=void\ armstrong()
+numComments=6
